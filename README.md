@@ -14,3 +14,6 @@ If an experiment encounters errors during the middle process, it is considered a
 
 
 The objective is to classify “normal” VS “failure” cases.
+
+In my solution, the machine learning and deep learning(autoencoder and LSTM) methods are employed.
+
